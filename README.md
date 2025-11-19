@@ -24,7 +24,7 @@ Tenzies es un emocionante juego de dados recreado en React, donde el objetivo es
 
 *Vista previa del juego Tenzies mostrando los 10 dados y la interfaz de usuario*
 
-Para una experiencia interactiva, puedes ejecutar el proyecto localmente o visitar una demo la [demo en vivo](https://seb-rm.github.io/Seb-RM/React-Vite-Tenzies/).
+Para una experiencia interactiva, puedes ejecutar el proyecto localmente o visitar una demo la [demo en vivo](https://seb-rm.github.io/React-Vite-Tenzies/).
 
 ## 🛠️ Tecnologías Utilizadas
 
